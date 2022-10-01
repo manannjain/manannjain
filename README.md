@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 -> Manan Jain 
+⩥👨‍🎓 Final Year Undergraduate at NIT Jalandhar<br>
 
 <!--
 **manannjain/manannjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
