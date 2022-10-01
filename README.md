@@ -1,6 +1,6 @@
 ### Hi there 👋 -> Manan Jain 
-⩥👨‍🎓 Final Year Undergraduate at NIT Jalandhar<br>
-
+⩥ 👨‍🎓 Final Year Undergraduate at NIT Jalandhar<br>
+⩥ 📫 How to reach me: https://www.linkedin.com/in/manannjain/
 <!--
 **manannjain/manannjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
